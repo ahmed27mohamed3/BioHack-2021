@@ -68,6 +68,6 @@ int main()
     string slhand  = "@ahmed" ; 
     string twhand = "@ahmed27mohamed3";
     int diff = HammingDistance(twhand , slhand);
-    cout << "My name is Ahmed Mohammed \nMy email is 20198007@stud.fci-cu.edu.eg\nMy Slack username is @ahmed\nMy BioStack drug discovery and medicinal chemistry\nMy Twitter user handle @ahmed27mohamed3 \nThe Hamming Distance is : " ;
+    cout << "My name is Ahmed Mohammed \nMy email is 20198007@stud.fci-cu.edu.eg\nMy Slack username is @ahmed\nMy BioStack Genomics and Data Science \nMy Twitter user handle @ahmed27mohamed3 \nThe Hamming Distance is : " ;
     cout << diff;
 }
